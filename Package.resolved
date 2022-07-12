@@ -1,42 +1,6 @@
 {
   "object": {
     "pins": [
-      {
-        "package": "Math",
-        "repositoryURL": "https://github.com/dn-m/Math",
-        "state": {
-          "branch": null,
-          "revision": "0bf8de5d353b7b7957cb2231395f6818bc575b47",
-          "version": "0.7.1"
-        }
-      },
-      {
-        "package": "Music",
-        "repositoryURL": "https://github.com/dn-m/Music",
-        "state": {
-          "branch": null,
-          "revision": "db4313f1954f1cc2c6bb0d4a0e2a2e5eec3d013b",
-          "version": "0.15.0"
-        }
-      },
-      {
-        "package": "PerformanceTesting",
-        "repositoryURL": "https://github.com/dn-m/PerformanceTesting",
-        "state": {
-          "branch": null,
-          "revision": "d48417c837b1a029dd9567dfa7b5ee3cfa9a0ec7",
-          "version": "0.3.0"
-        }
-      },
-      {
-        "package": "Structure",
-        "repositoryURL": "https://github.com/dn-m/Structure",
-        "state": {
-          "branch": null,
-          "revision": "fc7d6a9dbaeb9c750988a6a142d5f67e395ddf69",
-          "version": "0.23.0"
-        }
-      }
     ]
   },
   "version": 1
