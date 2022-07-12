@@ -6,7 +6,7 @@ let package = Package(
     name: "NotationModel",
     products: [
         .library(name: "PlotModel", targets: ["PlotModel"]),
-        .library(name: "SpelledPitch", targets: ["SpelledPitch"]),
+        .library(name: "SpelledPitch", targets: ["SpelledPitch", "Duration"]),
         .library(name: "SpelledRhythm", targets: ["SpelledRhythm"]),
         .library(name: "StaffModel", targets: ["StaffModel"])
     ],
