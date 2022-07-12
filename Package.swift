@@ -7,7 +7,7 @@ let package = Package(
     products: [
         .library(name: "PlotModel", targets: ["PlotModel"]),
         .library(name: "SpelledPitch", targets: ["SpelledPitch"]),
-        .library(name: "SpelledRhythm", targets: ["SpelledRhythm"]),
+        .library(name: "SpelledRhythm", targets: ["SpelledRhythm", "Duration"]),
         .library(name: "StaffModel", targets: ["StaffModel"])
     ],
     dependencies: [
